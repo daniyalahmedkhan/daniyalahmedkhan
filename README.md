@@ -1,6 +1,6 @@
 ## Hi - I am Daniyal 👋
 
-##### I work as a full time Android Developer :computer: :iphone:  and have managing skills in App development from paper idea into reality. My Android Development journey has started in 2017 and in this total experience I've contributed alot as a open source contributor on GitHub and YouTube.
+##### I work as a full time Android Developer :computer: :iphone:  and have managing skills in App development from paper idea into reality. My Android Development journey has started since 2017 and in this total experience I've contributed alot as a open source contributor on GitHub and YouTube.
 
 <!---
 <details>
