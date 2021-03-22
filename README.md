@@ -5,7 +5,6 @@
 www.youtube.com/c/DaniyalAk  
 https://github.com/daniyalahmedkhan
 
-
 ### What I'm Focusing On :muscle:
 
 - ⚡ Android MVVM with Latest Jetpack ...
