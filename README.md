@@ -10,6 +10,11 @@
 
 --->
 
+
+<a href="https://github.com/daniyalahmedkhan?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniyalahmedkhan&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Daniyal's github stats"/>
+</a>
+
 ### What I'm Focusing On :muscle:
 
 - ⚡ Android MVVM with Latest Jetpack ...
